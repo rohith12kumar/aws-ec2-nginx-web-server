@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # AWS EC2 Nginx Web Server Deployment
 
 ## Project Overview
@@ -83,4 +80,4 @@ I updated the Security Group to allow inbound HTTP traffic (port 80), which reso
 - Deploy a custom HTML website
 - Add a domain name for better accessibility
 - Automate deployment using a CI/CD pipeline
->>>>>>> cb4e6c2 (Improved README with project explanation)
+
